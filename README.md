@@ -14,11 +14,24 @@
 
 ---
 
+## 📂 Projects
+
+| Project | Demo |
+|---------|------|
+| Google Keep Clone | [View](https://shivkumarskyglobals-cell.github.io/googleKeepClone/) |
+| Task Manager | [View](https://shivkumarskyglobals-cell.github.io/taskManager/) |
+| Expense Tracker | [View](https://shivkumarskyglobals-cell.github.io/expenseTracker/) |
+| Budget Planner | [View](https://shivkumarskyglobals-cell.github.io/budgetPlanner/) |
+| Personal Finance Dashboard | [View](https://shivkumarskyglobals-cell.github.io/personalFinanceDashboard/) |
+| Savings Tracker | [View](https://shivkumarskyglobals-cell.github.io/savings/) |
+
+---
+
 ## 🚀 What I Do
 
-- Transform ideas into powerful, interactive web experiences.  
-- Build scalable and maintainable solutions using modern frameworks.  
-- Continuously learn to stay ahead in web development trends.  
+- Transform ideas into **powerful, interactive web experiences**.  
+- Build **scalable and maintainable solutions** using modern frameworks.  
+- Continuously learn to stay ahead in **web development trends**.  
 
 ---
 
@@ -33,13 +46,13 @@
 ## 🌱 Currently Working On
 
 - Enhancing my **Travel Website** project.  
-- Exploring new features and best practices in **Vue.js** and **Laravel**.  
+- Exploring **new features and best practices** in Vue.js and Laravel.  
 
 ---
 
 ## 📫 Let’s Connect
 
-Feel free to check out my repositories and projects below. I’m always open to collaboration and learning from fellow developers!  
+I’m always open to collaboration and learning from fellow developers. Let’s connect!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
