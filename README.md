@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shiv Kumar!
 
-**Web Developer** | Passionate about building interactive, user-friendly, and robust web applications.
+**Web Developer** | Focused on creating dynamic, responsive, and efficient web applications.
 
 ---
 
@@ -8,7 +8,7 @@
 
 - 🧑‍💻 **Profession:** Web Developer  
 - 💡 **Traits:** Hardworking, Good Listener  
-- 💻 **Tech Stack:** Vue.js | Laravel | CodeIgniter | PHP  
+- 💻 **Tech Stack:** PHP | jQuery | AJAX | MySQL  
 - 🌎 **Favorite Project:** Travel Website  
 - 💬 **Motto:** *"Love to code"*
 
@@ -24,36 +24,37 @@
 | Budget Planner | [View](https://shivkumarskyglobals-cell.github.io/budgetPlanner/) |
 | Personal Finance Dashboard | [View](https://shivkumarskyglobals-cell.github.io/personalFinanceDashboard/) |
 | Savings Tracker | [View](https://shivkumarskyglobals-cell.github.io/savings/) |
-| Expense And Saving Tracker | [View](https://shivkumarskyglobals-cell.github.io/expeAndSavingTracker/) |
+| Expense & Saving Tracker | [View](https://shivkumarskyglobals-cell.github.io/expeAndSavingTracker/) |
 
 ---
 
 ## 🚀 What I Do
 
-- Transform ideas into **powerful, interactive web experiences**.  
-- Build **scalable and maintainable solutions** using modern frameworks.  
-- Continuously learn to stay ahead in **web development trends**.  
+- Build **user-friendly web applications** using PHP, jQuery, and AJAX.  
+- Create **responsive interfaces** and **seamless user interactions**.  
+- Develop **secure and optimized** backend systems with MySQL.  
+- Constantly **improve my skills** and explore new development techniques.
 
 ---
 
 ## 🛠️ Skills
 
-**Frontend:** Vue.js  
-**Backend:** Laravel | CodeIgniter | PHP  
-**Soft Skills:** Hardworking | Good Listener  
+**Frontend:** jQuery | AJAX | HTML | CSS  
+**Backend:** PHP | MySQL  
+**Soft Skills:** Hardworking | Good Listener | Problem Solver  
 
 ---
 
 ## 🌱 Currently Working On
 
-- Enhancing my **Travel Website** project.  
-- Exploring **new features and best practices** in Vue.js and Laravel.  
+- Upgrading my **Travel Website** project with better UI and dynamic features.  
+- Enhancing **AJAX-based interactions** for smoother user experiences.  
 
 ---
 
 ## 📫 Let’s Connect
 
-I’m always open to collaboration and learning from fellow developers. Let’s connect!  
+I’m always open to collaboration, learning, and exciting new projects.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
